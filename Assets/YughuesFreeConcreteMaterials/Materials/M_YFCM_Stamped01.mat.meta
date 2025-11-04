@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: b40547493aafb944480a5af970b1008d
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_Stamped01.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:40b3c5a020b6b97d9981a5c7b9ee02931ae13d29508752ae1548cbb2953d833a
+size 411

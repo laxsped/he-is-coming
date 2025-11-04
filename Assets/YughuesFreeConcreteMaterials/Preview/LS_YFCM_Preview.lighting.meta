@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 25b4029f06ff6a94b890ee090706c666
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 4890085278179872738
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Preview/LS_YFCM_Preview.lighting
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4a587c4cd54aae781e66cdbd658cce6ccb01ef32b632c6b91327fa31719783e
+size 425

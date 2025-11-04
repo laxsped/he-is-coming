@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 23ad9f01f27e01543a3cb0c1b53d4da3
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_Spalling.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:89ceb76c1c94b6f21f1a9322f445666e84bdb11ea96c5953b57f0e3a974028ce
+size 410

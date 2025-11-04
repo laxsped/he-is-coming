@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 47c2d740284d61c458bc725d4f321617
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_SaltFinish.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:f602524638dd6fc4cefc1100d3324ec628eb3fdb4d83ecf287996f6f5f2fce6a
+size 412

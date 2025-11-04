@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 01219acc239963a40aa907c2a99c293d
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_ColoredSand.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:7675295d2df0a3dcb5a1ef96eec66278658fdaac588e3f1468a23112d708667f
+size 413

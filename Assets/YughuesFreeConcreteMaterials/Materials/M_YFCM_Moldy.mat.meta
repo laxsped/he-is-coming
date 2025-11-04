@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f9d0aaccbb1287443af09bde2f3c6b33
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_Moldy.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c496bc90d17c7284965db50112fab6b56fa6a643ed50f37a4f9a158bdd8f2c
+size 407

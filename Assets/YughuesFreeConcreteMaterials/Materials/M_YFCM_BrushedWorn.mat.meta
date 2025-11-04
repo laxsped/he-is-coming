@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: a73ce97174548ff43becf7076bf810d5
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_BrushedWorn.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:46dc33b25bb78e1407d4897076df7850436b13331e5417cb2764e3c54a994e6c
+size 413

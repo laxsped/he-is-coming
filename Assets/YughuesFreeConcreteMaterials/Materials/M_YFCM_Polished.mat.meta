@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 4e9d0c37787f479428bdf2ab1220936b
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_Polished.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:999d7dc5b623133a1a6fa73070a01aa58aadac5a0cc9ab8d8eae2d08ab938922
+size 410

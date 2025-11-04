@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: da4826bfd01cd834dabace68f74df6cb
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_Slab1x1.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:34eef7e2cd676431280e0ad355cafa74c751dd3d16d96cc27ceb1f6344ed87c7
+size 409

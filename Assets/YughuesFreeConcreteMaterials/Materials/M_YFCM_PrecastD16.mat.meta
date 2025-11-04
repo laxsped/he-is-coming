@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 5134fa419cebfb04fb640549385cc16c
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 2100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 12951
-  packageName: Yughues Free Concrete Materials
-  packageVersion: 1.0
-  assetPath: Assets/YughuesFreeConcreteMaterials/Materials/M_YFCM_PrecastD16.mat
-  uploadId: 744117
+version https://git-lfs.github.com/spec/v1
+oid sha256:e18ebcc917b57ed2bdb29e35e047efc70e5a936c8aea917e3690b2d4022baabd
+size 412
